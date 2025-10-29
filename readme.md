@@ -174,7 +174,7 @@ MIT License — free to use, modify, and share.
 
 ## 🌟 Author
 
-Created by **Abdallah Kanso** — DevOps Lead, automation enthusiast, and CLI advocate.
+Created by **www.experts-lab.com** — DevOps Lead, automation enthusiast, and CLI advocate.
 
 > *Because great engineers don’t just click — they command.*
 
