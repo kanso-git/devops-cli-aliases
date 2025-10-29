@@ -9,9 +9,13 @@ A collection of powerful **command-line aliases** for **Kubernetes**, **AWS**, a
 ## ⚡ Features
 
 ✅ Simplifies repetitive CLI tasks
+
 ✅ Works across Kubernetes, AWS, and Terraform
+
 ✅ Adds safety by showing context before running K8s commands
+
 ✅ Boosts productivity for DevOps engineers and developers
+
 ✅ Easy to install and share across your team
 
 ---
